@@ -1,0 +1,167 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(212, 208, 208);
+}
+.fnav
+{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding: 11px;
+}
+.fnav img{
+    width: 12%;
+    height: 11%;
+}
+
+.nav input{
+    width: 400px;
+    height: 32px;
+    border: none;
+    margin-top: 16px;
+
+}
+.nav img{
+   width: 4%;
+   height: 82%;
+   margin-top: 16px;
+
+}
+nav{
+    display: flex;
+    /*justify-content: center;*/
+    justify-content:space-around;
+}
+nav .loca
+{
+    margin-top: 16px;
+    display: flex;
+    justify-content:space-around;
+} 
+nav i{
+    margin-top: 16px;
+    font-size: 27px;
+}
+nav p{
+    margin-top: 16px;
+}
+nav p{
+   font-size: 18px; 
+}
+nav i{
+  
+    font-size: 27px;
+} nav p a{
+    color: white;
+    margin-top: 16px;
+}
+.loca i{
+    margin-inline: 11px;
+}
+.snav
+{
+   display: flex;
+   justify-content: center;
+   justify-content: space-around; 
+   padding: 11px;
+   background-color: rgb(75, 73, 73);
+   color: white;
+}
+.snav a{
+    margin-top: 2px;
+
+}
+.snav a:hover{
+  background-color: blanchedalmond;
+  color: black;
+}
+
+.main img{
+  width:100%;
+
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+.card
+{
+    width: 360px;
+    height: 400px;
+    background-color: #fff;
+    text-align: center;
+    padding: 11px;
+
+}
+.card .img img{
+   width:44%; 
+   padding: 7px;
+   margin-top: 7px;
+
+}
+.deals
+{
+    margin-top: 33px;
+    width: 1470px;
+    height: 400px;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-left: 22px;
+
+}
+.deals h1{
+    margin-left: 22px; 
+    margin-top: 33px;
+    padding: 22px;
+
+}
+.deals .img{
+  display: flex; 
+  justify-content: center;
+  justify-content: space-around; 
+  padding: 33px;
+  height: 60%;
+}
+.img img{
+    width: 14%;
+   
+}
+.top
+{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(43,43,71);
+color:white;
+padding: 11px;
+margin-top: 33px;
+}
+.top img{
+   width: 20%;
+margin-inline: 22px;
+   
+}
+.footer
+{
+   display: flex;
+   justify-content: center;
+   justify-content: space-around;
+   color: white;
+   background-color: rgb(17,17,41);
+padding:54px ;
+}
+
+
+
+
+
+
+
